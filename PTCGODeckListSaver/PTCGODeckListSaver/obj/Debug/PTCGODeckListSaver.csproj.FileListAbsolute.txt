@@ -1,0 +1,9 @@
+C:\Users\b1nky\Desktop\Homework\CIS169\PTCGODeckListSaver\PTCGODeckListSaver\bin\Debug\PTCGODeckListSaver.exe.config
+C:\Users\b1nky\Desktop\Homework\CIS169\PTCGODeckListSaver\PTCGODeckListSaver\bin\Debug\PTCGODeckListSaver.exe
+C:\Users\b1nky\Desktop\Homework\CIS169\PTCGODeckListSaver\PTCGODeckListSaver\bin\Debug\PTCGODeckListSaver.pdb
+C:\Users\b1nky\Desktop\Homework\CIS169\PTCGODeckListSaver\PTCGODeckListSaver\obj\Debug\PTCGODeckListSaver.csprojResolveAssemblyReference.cache
+C:\Users\b1nky\Desktop\Homework\CIS169\PTCGODeckListSaver\PTCGODeckListSaver\obj\Debug\PTCGODeckListSaver.formMain.resources
+C:\Users\b1nky\Desktop\Homework\CIS169\PTCGODeckListSaver\PTCGODeckListSaver\obj\Debug\PTCGODeckListSaver.Properties.Resources.resources
+C:\Users\b1nky\Desktop\Homework\CIS169\PTCGODeckListSaver\PTCGODeckListSaver\obj\Debug\PTCGODeckListSaver.csproj.GenerateResource.Cache
+C:\Users\b1nky\Desktop\Homework\CIS169\PTCGODeckListSaver\PTCGODeckListSaver\obj\Debug\PTCGODeckListSaver.exe
+C:\Users\b1nky\Desktop\Homework\CIS169\PTCGODeckListSaver\PTCGODeckListSaver\obj\Debug\PTCGODeckListSaver.pdb
